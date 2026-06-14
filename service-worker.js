@@ -2,8 +2,8 @@ const CACHE_NAME = 'alquran-kolaka-v1';
 const ASSET_CACHE = [
   '/',
   'manifest.json',
-  'icon-192x192.png',
-  'icon-512x512.png'
+  '/20260614_125424.png',
+  '/20260614_125424.png'
 ];
 
 // Simpan file ke cache saat instalasi
